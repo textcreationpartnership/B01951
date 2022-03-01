@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the crowing cock and lyon couchant, or, A poem to express the gallantry of our royall chanticlere. The uncertainty of war &amp; cock-fighting. The magnanimity of a brave general and judicious cocker: / writ on the news of the surrender of Namur, in encomium of unparallel'd fortitude and true English valour, recorded in the parable of the game cock, to congratulate his Majesties happy return to London, leaving future success to the disposal of divine providence.</title>
+            <author>Cater, Gerrard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01951</idno>
+            <idno type="STC">Wing C1483B</idno>
+            <idno type="STC">ESTC R175694</idno>
+            <idno type="EEBO-CITATION">53981617</idno>
+            <idno type="OCLC">ocm 53981617</idno>
+            <idno type="VID">180148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180148)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2819:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the crowing cock and lyon couchant, or, A poem to express the gallantry of our royall chanticlere. The uncertainty of war &amp; cock-fighting. The magnanimity of a brave general and judicious cocker: / writ on the news of the surrender of Namur, in encomium of unparallel'd fortitude and true English valour, recorded in the parable of the game cock, to congratulate his Majesties happy return to London, leaving future success to the disposal of divine providence.</title>
+                  <author>Cater, Gerrard.</author>
+               </titleStmt>
+               <extent>[1], 11 p. : ill., front.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontispiece: engraving of roosters, one atop mountain and being crowned by angels. Under illustration: "Gloria Deo. Finis coronat opus."</note>
+                  <note>Signed at end: By a true cocker, and no less loyal subject, Gerrard Cater, Esq.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:180148:1" rendition="simple:additions"/>
+            <pb facs="tcp:180148:1"/>
+            <pb facs="tcp:180148:2"/>
+            <pb facs="tcp:180148:2" rendition="simple:additions"/>
+            <pb facs="tcp:180148:3"/>
+            <p>
+               <figure>
+                  <figDesc>two angels crowning a cockerel, which stands on the back of a lion, as the lion lies on the ground</figDesc>
+                  <p>
+                     <hi>GLORIA DEO. Finis coronat Opus.</hi>
+                  </p>
+               </figure> 
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:180148:3" rendition="simple:additions"/>
+            <head>ON The Crowing Cock <hi>And Lyon Couchant,</hi> OR, A POEM To Expreſs the <hi>Gallantry</hi> of our <hi>Royall Chan<g ref="char:EOLhyphen"/>ticlere.</hi> The uncertainty of <hi>Warr &amp; Cock<g ref="char:EOLhyphen"/>fighting.</hi> The Magnanimity of a brave <hi>General</hi> and <hi>Judicious Cocker:</hi> Writ on the <hi>NEWS</hi> of the Surrender of <hi>NAMUR,</hi> in Incomium of Unparalell'd Fortitude and true <hi>Engliſh Valour,</hi> Recorded in the Parable of the <hi>Game Cock,</hi> to Congratulate His Majeſties Happy Return to <hi>London,</hi> leaving future Succeſs to the diſpoſal of <hi>Divine Providence.</hi>
+            </head>
+            <lg>
+               <l>THE King of Beaſts doth <hi>Couch</hi> and <hi>Tremble</hi> here,</l>
+               <l>And dreads the Challenge of our <hi>Chanticlere,</hi>
+               </l>
+               <l>As <hi>Monſieur</hi> doth our <hi>Britiſh Monarch</hi> fear.</l>
+               <pb n="2" facs="tcp:180148:4"/>
+               <l>The <hi>Epedemick Leo</hi> knew no Bound,</l>
+               <l>And would devour (even Satan like) around,</l>
+               <l>Till daring <hi>Ruſſel</hi> caught him in his Pound.</l>
+               <l>His <hi>vain Ambition</hi> ſtrikes at all above,</l>
+               <l>Would be <hi>Earths Emp'rour</hi> and the <hi>World's great Jove,</hi>
+               </l>
+               <l>
+                  <hi>A Chriſtian Monarch</hi> in a double Sence,</l>
+               <l>With Laws Divine and Humane can diſpence,</l>
+               <l>Enſlaves his Subjects, ſcorns all Piety,</l>
+               <l>Both to Promote and maſque his Tyranny,</l>
+               <l>
+                  <hi>Intereſt</hi> his <hi>Idol</hi> is, his Money Charms,</l>
+               <l>The Power of War and Conquers more than Arms,</l>
+               <l>Heav'n grant to <hi>King</hi> and <hi>Parliament</hi> ſuch Coin,</l>
+               <l>That all may fight like us! like us may joyn</l>
+               <l>T' increaſe our <hi>Victories</hi> whilſt his decline,</l>
+               <l>Thus the <hi>great Monarch</hi>'s Pride, his vaſt deſire,</l>
+               <l>Will like vain <hi>Phaeton</hi> in Flames expire,</l>
+               <l>With points of <hi>War</hi> he cannot well diſpence,</l>
+               <l>Or dares to fight—no; not in his defence?</l>
+               <l>But on Advantage with <hi>brave Inſolence.</hi>
+               </l>
+               <pb n="3" facs="tcp:180148:4" rendition="simple:additions"/>
+               <l>The innate Virtue of our <hi>Faiths Defender,</hi>
+               </l>
+               <l>Makes <hi>Lewis l'Ore</hi> and <hi>great Forts</hi> Surrender,</l>
+               <l>
+                  <hi>Gallus Gallinaceus France</hi> his Dunghil <hi>Cock,</hi>
+               </l>
+               <l>With Poop unſavoury and Langue-Dock,</l>
+               <l>To our <hi>Game Warriour</hi> is oblig'd to knock,</l>
+               <l>Some love to ſet their Neighbours by the Ears,</l>
+               <l>But dread a change when horred <hi>Death</hi> appears,</l>
+               <l>Proud Kings and Tyrants, Athiſt, God deny,</l>
+               <l>Prove greateſt Cowards when they come to dye,</l>
+               <l>So <hi>Gallick Cock,</hi> once try'd by narrow heel</l>
+               <l>Of <hi>Brittain</hi>'s <hi>Chanticleres</hi> (as true as ſteel,)</l>
+               <l>Will ſtart and dance (like Crow in Gutter ſtrut,)</l>
+               <l>And give his head for <hi>Cock's-Comb</hi> to be cut,</l>
+               <l>With fallen Hackle Courage down muſt creep,</l>
+               <l>Shoot Pit by Land and ſtrike Sail on the deep,</l>
+               <l>We dread no <hi>Colours,</hi> ſcorn all <hi>Aeſop</hi>'s Breed,</l>
+               <l>And ſtomacks have to fight as well as feed,</l>
+               <l>Whilſt <hi>God</hi>'s with us proud <hi>Lucifer</hi> muſt bleed,</l>
+               <pb n="4" facs="tcp:180148:5" rendition="simple:additions"/>
+               <l>Ride Triumph o're his Coaſts the Name of <hi>Wills,</hi>
+               </l>
+               <l>Make Monſieur ſcamper on their own Dunghils,</l>
+               <l>And ſend Victorious Ecchoes to their Hills,</l>
+               <l>We Crowing ſtand with ſhrill and lowder cries</l>
+               <l>Then e're was <hi>Eccow'd</hi> yet from rended Skyes,</l>
+               <l>Our Youth and Fortitude ſpeak Victories.</l>
+               <l>Our <hi>Royal Cock</hi> in Battle takes delight</l>
+               <l>To ſtimulate his Combitants to Fight,</l>
+               <l>We hit at Sparring Blows, but French <hi>Sa, Sa,</hi>
+               </l>
+               <l>Is a ſhort flying flurt, <hi>Engliſh Huzza</hi>
+               </l>
+               <l>Makes Lyons tremble, great ones run away,</l>
+               <l>And Forts Impregnable our Arms obey.</l>
+               <l>
+                  <hi>France</hi> ſhew'd their Teeth and meanly did oblige</l>
+               <l>Our Conqueſt to atteſt not raiſe the Siege,</l>
+               <l>Whilſt <hi>Villeroy</hi> with many thouſand Men,</l>
+               <l>Did as they wont, march down the Hill again,</l>
+               <l>Like <hi>Nero,</hi> view'd the Flames, ne're ſtruck a ſtroak,</l>
+               <l>T'our Haughtboys Danc'd and vaniſhed in Smoak.</l>
+               <pb n="5" facs="tcp:180148:5" rendition="simple:additions"/>
+               <l>When our <hi>Great Victor</hi> bravely croſs'd the <hi>Boyn,</hi>
+               </l>
+               <l>Where <hi>French</hi> and <hi>Iriſh</hi> did againſt him joyn;</l>
+               <l>He view'd their Arms, and boldly ſaid, <hi>March on;</hi>
+               </l>
+               <l>No ſooner ſaid, but he the Battle won.</l>
+               <l>Thus <hi>Royal Preſence,</hi> with true Courage clad,</l>
+               <l>Vanquiſh'd his Foes, and made his Subject glad.</l>
+               <l>
+                  <hi>Gallick Bellona,</hi> like the <hi>Grecian</hi> Dame,</l>
+               <l>Aſtoniſh'd at <hi>Namur</hi>'s moſt dreadful Flame,</l>
+               <l>Yielded the Fort, but did her Flowers retain,</l>
+               <l>In hopes of Reſurrection from the Main.</l>
+               <l>Where e're Great <hi>VVilliam</hi> doth in Arms appear,</l>
+               <l>The Flower-de-Luces fade, the <hi>Mightieſt</hi> fear.</l>
+               <l>
+                  <hi>England</hi>'s <hi>Plum'd Hero</hi> will hold out to th' end,</l>
+               <l>As well-bred Steed upon the Spur will mend;</l>
+               <l>Give Stab for Stab, both weak expiring lie</l>
+               <l>Will yet look Blows within each others Eye.</l>
+               <l>A well-bred Branch of War will not refuſe</l>
+               <l>To Fight, altho' (by chance) the beſt may looſe.</l>
+               <pb n="6" facs="tcp:180148:6"/>
+               <l>Sometimes the knockt-down Foe (dead in a Trance)</l>
+               <l>Hazards a Blow, and makes the <hi>Devil</hi> dance.</l>
+               <l>And then the Ten-pound Bett he doth confound;</l>
+               <l>The Battle wins, with Honour he is <hi>Crown'd;</hi>
+               </l>
+               <l>Even after Death he ſent the nicking Blow,</l>
+               <l>And left in <hi>Honour</hi>'s Bed his Bleeding Foe.</l>
+               <l>Great Odds were loſt when <hi>Fortunatus</hi> Fought it,</l>
+               <l>And gave the Bag unto a Who-had-thought-it.</l>
+               <l>But lo! <hi>Namur</hi>'s Re-gained; not by a Chance,</l>
+               <l>By Blows, true Fight, God's Wrath Impending <hi>France,</hi>
+               </l>
+               <l>Our <hi>Victor</hi>'s Trumpets make Grand <hi>Mounſieur</hi> dance.</l>
+               <l>
+                  <hi>WILLIAM</hi>'s the Cock of Game, who bids Defie on</l>
+               <l>Moſt Chriſtian Monarch, Turk and Roaring Lyon.</l>
+               <l>
+                  <hi>Bouflieurs</hi> at Head on's Arms, at <hi>Royal</hi> Pleaſure,</l>
+               <l>Is made a Pledge to Ranſom <hi>England</hi>'s Treaſure.</l>
+               <l>Our <hi>Albion Sons of Mars,</hi> are by good Fate,</l>
+               <l>Now free to March, nay Enter <hi>Paris</hi> Gate,</l>
+               <l>Whilſt <hi>Gallick Tyrant</hi> may prove <hi>Abdicate.</hi>
+               </l>
+               <pb n="7" facs="tcp:180148:6"/>
+               <l>To the King of Kings <hi>French Jupiter</hi> muſt quake,</l>
+               <l>When <hi>Engliſh</hi> Arms doth make all <hi>Europe</hi> ſhake.</l>
+               <l>Our Hackles tite, the Lyon's Tail is down;</l>
+               <l>An ominous Preſage to th' <hi>French</hi> King's Crown.</l>
+               <l>We treat with Sword in Hand, will hear no Truce;</l>
+               <l>Wait <hi>Heav'n</hi>'s <hi>Fiat,</hi> for the <hi>Flower-de-Luce.</hi>
+               </l>
+               <l>When Swords to <hi>Plowſhares</hi> turn, who wins the <hi>Crown?</hi>
+               </l>
+               <l>A <hi>Conquerour Reviv'd</hi> ſtands on Renown.</l>
+            </lg>
+            <pb n="8" facs="tcp:180148:7"/>
+            <lg>
+               <l>THERE was of late, and from the <hi>German</hi> Stock,</l>
+               <l>A large and beautiful, but wond'rous <hi>Cock:</hi>
+               </l>
+               <l>A ſpacious Orange did his Creſt adorn,</l>
+               <l>From whence there iſſued out (at top) a Horn.</l>
+               <l>While yet that Prince, who does his glorious Name,</l>
+               <l>From that known Title, by his Valour claim;</l>
+               <l>And had not yet acquired by his Sword,</l>
+               <l>That nobler Style of <hi>Albion</hi>'s <hi>Great Lord,</hi>
+               </l>
+               <l>This lived. But when Great <hi>William</hi> took our Throne,</l>
+               <l>It languiſh'd, and ſtreight died—Fate here does own</l>
+               <l>By this ſtrange Omen, that the <hi>Brave Naſſaw,</hi>
+               </l>
+               <l>Who only once did keep the <hi>Dutch</hi> in awe;</l>
+               <l>Now in poſſeſſion of a <hi>Diadem,</hi>
+               </l>
+               <l>Thoſe ſmaller Dominations ſhould Contemn.</l>
+               <l>The <hi>Prince,</hi> who ſet a mighty King, does riſe</l>
+               <l>A true Aſſerter of our Liberties.</l>
+               <l>The <hi>N-E-W-S</hi> muſt ſpread, that <hi>France,</hi> who aim'd at all</l>
+               <l>And did deſign to bring our World in Thrall,</l>
+               <l>With ſoaring <hi>Icarus</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+            </lg>
+         </div>
+         <div type="conclusion">
+            <pb n="9" facs="tcp:180148:7"/>
+            <head>The CONCLUSION.</head>
+            <lg>
+               <l>THE <hi>Covetous,</hi> and moſt Opinionate,</l>
+               <l>Oft meet ith' <hi>Fortune</hi>'s frowns; the Gameſter great</l>
+               <l>Judiciouſly can Cock above Croſs <hi>Fate,</hi>
+               </l>
+               <l>And wants not Courage to be <hi>Fortunate.</hi>
+               </l>
+               <l>Fortitude ne'er fails Bold <hi>Britain</hi>'s Cocker,</l>
+               <l>And is as ſerviceable to Love's Smocker.</l>
+            </lg>
+            <lg>
+               <l>But He (by <hi>Heav'n</hi>) is called to fight <hi>God</hi>'s Cauſe,</l>
+               <l>Preſerve <hi>Religion, Liberties</hi> and <hi>Laws;</hi>
+               </l>
+               <l>O're Death and Satan <hi>Croweth,</hi> and ſhall be</l>
+               <l>The World's <hi>Grand Victor</hi> to Eternity.</l>
+               <l>The <hi>Man of God,</hi> whoſe Sword at Trumpet ſounds,</l>
+               <l>
+                  <hi>Victorious Triumphs</hi> writes in Blood and Wounds,</l>
+               <l>With Peace and Plenty <hi>Chriſtendom</hi> abounds.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="10" facs="tcp:180148:8"/>
+            <head>The Loyal Wiſh.</head>
+            <lg>
+               <l>MAY Fate with Honour, and with Laurels Crown</l>
+               <l>Our Mighty <hi>HERO,</hi> till his vaſt Renown,</l>
+               <l>Through all the <hi>Spacious</hi> Globe his Worth reſound.</l>
+               <l>May his Victorious Arms extend as far,</l>
+               <l>As from the <hi>Eaſtern,</hi> to the <hi>Weſtern</hi> Star;</l>
+               <l>Till He with Glory to his <hi>Albion</hi> come,</l>
+               <l>Like Great <hi>Auguſtus,</hi> to Victorious <hi>Rome:</hi>
+               </l>
+               <l>And thus to us in Triumph does advance,</l>
+               <l>From the Sav'd <hi>Netherlands,</hi> and Conquer'd <hi>France.</hi>
+               </l>
+            </lg>
+            <closer>AMEN.</closer>
+            <trailer>Finis Coronat Opus.</trailer>
+         </div>
+         <div type="poem">
+            <pb n="11" facs="tcp:180148:8"/>
+            <head>Epigram.</head>
+            <lg>
+               <l>IN Eighty-Eight, <hi>Spain</hi> ſent a Vaſt <hi>Armado;</hi>
+               </l>
+               <l>In Ninety-Two the <hi>French</hi> made their Bravado.</l>
+               <l>The Attempt of both did equally prove vain;</l>
+               <l>
+                  <hi>France</hi> bragg'd as much, and loſt no leſs than <hi>Spain.</hi>
+               </l>
+               <l>Grand <hi>Lewis</hi> Royal Sun is Sett at laſt,</l>
+               <l>And <hi>Namur</hi> all their Day-light overcaſt.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>By a True Cocker, And no leſs</hi> Loyal <hi>Subject.</hi> Gerrard Cater, <hi>Eſq;</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:180148:9"/>
+            <pb facs="tcp:180148:9"/>
+            <pb facs="tcp:180148:10"/>
+            <pb facs="tcp:180148:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
